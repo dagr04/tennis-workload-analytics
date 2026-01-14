@@ -57,8 +57,8 @@ python3 main_coach_planner.py
 
 ## Author 
 
-Dev Agrawal
-Pre-Engineering
+Dev Agrawal\
+Pre-Engineering\
 Earlham College
 
 ## Future Improvements
