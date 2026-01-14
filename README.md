@@ -1,4 +1,4 @@
-# Tennis Players Workload & Injury Risk Prediction System
+# Tennis Players' Workload & Injury Risk Prediction System
 
 This project is a sports analytics and machine learning system designed to simulate athlete training data, engineer sports science metrics, and provide actionable injury risk insights through a coach-facing dashboard.
 
