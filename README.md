@@ -52,7 +52,7 @@ python3 main_coach_planner.py
 
 ## Insights & Outputs
 
-* Visualizations: The system generates ROC curves for data scientists and workload trend graphs for coaches.
+* Visualizations: The system generates workload trend graphs for coaches.
 * Actionable Data: Instead of just "High Risk," the system provides specific intervention advice based on the athlete's fatigue and workload history.
 
 ## Author 
