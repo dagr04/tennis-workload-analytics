@@ -24,7 +24,7 @@ The system evaluates two distinct approaches:
 * Logistic Regression: A baseline medical-style risk model.
 * Random Forest: A nonlinear ensemble model for complex pattern recognition.
 
-Performance is measured via: ROC-AUC scores, Classification Reports, and ROC Curve visualizations.
+Performance is measured via: ROC-AUC scores, and Classification Reports.
 
 ### 3. Coach Decision Dashboard
 The final output is a decision-support tool that translates data into coaching actions:
